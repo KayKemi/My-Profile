@@ -1,7 +1,7 @@
-👋 Hi, I’m Oluwakemi Odewole
-👀 I’m interested in Cybersecurity.
-🌱 I’m currently learning Pentraton Testing.
-💞️ I’m looking to collaborate on projects and programs
-📫 How to reach me via odewoleoluwakemi@gmail.com
-😄 Pronouns: She
-⚡ Fun fact: I love image writing.
+-👋 Hi, I’m Oluwakemi Odewole <br>
+-👀 I’m interested in Cybersecurity. <br>
+-🌱 I’m currently learning Pentraton Testing. <br>
+-💞️ I’m looking to collaborate on projects and programs <br>
+-📫 How to reach me via odewoleoluwakemi@gmail.com <br>
+-😄 Pronouns: She <br>
+-⚡ Fun fact: I love image writing. 
